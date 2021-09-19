@@ -1,6 +1,6 @@
 # School District Analysis
 
-## Overview of Election Audit
+## Overview of Analysis
 
 In this analysis, we are working with Maria, a data scientist for a city school district. We will be preparing 
 standardized test data for analysis and reporting. The aggregated data will then be presented to the city school
@@ -14,7 +14,7 @@ The purpose of this project will be to update our Python code to account for rep
 and alterations made to student test scores. In this new analysis, we will be working to update the data, to
 repeat the school district analysis and lastly describe how the changes made impacted the overall analysis. 
 
-## School Anlysis Results
+## School Analysis Results
 
 Following the updates to the test score data, various aspects of the previous analysis have been affected. 
 
